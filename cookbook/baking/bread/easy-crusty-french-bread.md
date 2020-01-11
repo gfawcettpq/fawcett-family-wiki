@@ -1,10 +1,12 @@
 ---
 title: Easy Crusty French Bread
-description:
+description: 
 published: true
-date: 2020-01-11T13:36:00.614Z
-tags:
+date: 2020-01-11T14:18:48.827Z
+tags: 
 ---
+
+![crusty-french-bread-6.jpg](/crusty-french-bread-6.jpg =x480)
 
 ## Preparation Time and Yield
 
