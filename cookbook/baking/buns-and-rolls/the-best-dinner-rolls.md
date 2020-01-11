@@ -2,13 +2,14 @@
 title: The Best Dinner Rolls
 description: 
 published: true
-date: 2020-01-11T14:10:09.529Z
+date: 2020-01-11T14:13:23.259Z
 tags: 
 ---
 
 ![from-scratch-dinner-rolls.jpg](/from-scratch-dinner-rolls.jpg =x480)
+&nbsp;  
 
-##### Preparation Time and Yield
+## Preparation Time and Yield
 
 - **Prep Time** 10 minutes
 - **Cook Time** 12 minutes
@@ -16,7 +17,7 @@ tags:
 - **Servings** 24 rolls
   &nbsp;
 
-##### Ingredients
+## Ingredients
 
 - 4 -5 cups all purpose flour
 - 2 tbsp rapid rise, instant yeast
@@ -28,7 +29,7 @@ tags:
 - 2 tbsp melted butter
   &nbsp;
 
-##### Method
+## Method
 
 1. Combine 3 cups of flour, yeast, sugar, salt, warm milk, butter, and egg in the bowl of a stand mixer.
 2. Attach the dough hook and turn the mixer on to the lowest speed and mix until flour is incorporated, scraping down the sides of the bowl as necessary.
