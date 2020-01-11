@@ -2,7 +2,7 @@
 title: Pork Loin with Mushroom & Pistaccio Stuffing
 description: 
 published: true
-date: 2020-01-11T13:10:37.860Z
+date: 2020-01-11T13:17:28.928Z
 tags: 
 ---
 
@@ -10,16 +10,15 @@ tags:
 
 #### Preparation Time and Yield
 
-| Type           | Duration          |
+|            |           |
 | -------------- | ----------------- |
 | **Prep Time**  | 25 minutes        |
 | **Cook Time**  | 1 hour 30 minutes |
 | **Total Time** | 1 hour 55 minutes |
+| **Servings** | 8 people |
 
-**Servings** 8 people
 
-
-#### Ingredients
+## Ingredients
 
 - 1 boneless pork loin roast (about 3 to 3 1/2 pounds)
 - 1/3 cup butter
@@ -32,7 +31,7 @@ tags:
 - salt and pepper to taste
 
 
-#### Method
+## Method
 
 1. In a skillet or frypan, melt the butter on medium heat. Add the mushrooms and shallots and saute unit soft and tender. Remove from heat and cool to room temperature.
 2. Using a food processor, crush the pistachios. Stop when they are an uneven consistency - some coarse and some fine. Remove the nuts from the food processor.
