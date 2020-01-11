@@ -6,8 +6,6 @@ date: 2020-01-11T13:37:38.800Z
 tags:
 ---
 
-# The Best Dinner Rolls
-
 [![from-scratch-dinner-rolls.jpg](https://docs.fawcett.family/uploads/images/gallery/2020-01/scaled-1680-/from-scratch-dinner-rolls.jpg)](https://docs.fawcett.family/uploads/images/gallery/2020-01/from-scratch-dinner-rolls.jpg
 =480x)
 
