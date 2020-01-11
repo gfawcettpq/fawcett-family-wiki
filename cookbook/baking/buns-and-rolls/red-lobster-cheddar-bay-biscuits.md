@@ -2,13 +2,14 @@
 title: Red Lobster Cheddar Bay Biscuits
 description: 
 published: true
-date: 2020-01-11T14:08:37.169Z
+date: 2020-01-11T14:12:56.101Z
 tags: 
 ---
 
 ![cheddar-bay-biscuits.jpg](/cheddar-bay-biscuits.jpg =480x)
+&nbsp;  
 
-##### Preparation Time and Yield
+## Preparation Time and Yield
 
 - **Prep Time** 15 minutes 
 - **Cook Time** 12 minutes 
@@ -16,8 +17,7 @@ tags:
 - **Servings** 12 biscuits 
 &nbsp;  
 
-##### Ingredients
-
+## Ingredients
 - 2 cups all-purpose flour
 - 1 tablespoon sugar
 - 1 tablespoon baking powder
@@ -32,7 +32,7 @@ tags:
 - 1/2 teaspoon garlic powder
 &nbsp;  
 
-##### Method
+## Method
 
 1. Preheat oven to **450 degrees F**. Line a baking sheet with parchment paper or a silicone baking mat; set aside.
 2. In a large bowl, combine flour, sugar, baking powder, garlic powder, salt and cayenne pepper, if using.
