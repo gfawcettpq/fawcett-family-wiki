@@ -2,13 +2,13 @@
 title: Pork Loin with Mushroom & Pistaccio Stuffing
 description: 
 published: true
-date: 2020-01-11T14:11:58.803Z
+date: 2020-01-11T14:12:17.877Z
 tags: 
 ---
 
 ![pork-loin-with-mushroom-pistachio-stuffing-wide-2.jpg](/pork-loin-with-mushroom-pistachio-stuffing-wide-2.jpg =x480)
 &nbsp;  
-#### Preparation Time and Yield
+## Preparation Time and Yield
 
 - **Prep Time** 25 minutes
 - **Cook Time** 1 hour 30 minutes
