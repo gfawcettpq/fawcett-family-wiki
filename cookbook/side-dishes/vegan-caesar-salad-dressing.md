@@ -1,11 +1,13 @@
 ---
 title: Vegan Caesar Salad Dressing
-description:
+description: 
 published: true
-date: 2020-01-11T13:36:00.614Z
-tags:
+date: 2020-01-11T14:33:46.974Z
+tags: 
 ---
 
+![vegan-caesar-salad-dressing.jpg](/vegan-caesar-salad-dressing.jpg =x480)
+&nbsp;  
 ## Preparation Time and Yield
 
 - **Prep Time** 5 minutes
