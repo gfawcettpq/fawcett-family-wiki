@@ -2,21 +2,19 @@
 title: The Best Dinner Rolls
 description:
 published: true
-date: 2020-01-11T13:37:38.800Z
+date: 2020-01-11T13:53:09.186Z
 tags:
 ---
 
-[![from-scratch-dinner-rolls.jpg](https://docs.fawcett.family/uploads/images/gallery/2020-01/scaled-1680-/from-scratch-dinner-rolls.jpg)](https://docs.fawcett.family/uploads/images/gallery/2020-01/from-scratch-dinner-rolls.jpg
-=480x)
+![from-scratch-dinner-rolls.jpg](https://docs.fawcett.family/uploads/images/gallery/2020-01/scaled-1680-/from-scratch-dinner-rolls.jpg =480x)
 
 ##### Preparation Time and Yield
 
-| Type           | Duration   |
-| -------------- | ---------- |
-| **Prep Time**  | 10 minutes |
-| **Cook Time**  | 12 minutes |
-| **Total Time** | 22 minutes |
-| **Servings\*** | 24 rolls   |
+- **Prep Time** 10 minutes
+- **Cook Time** 12 minutes
+- **Total Time** 22 minutes
+- **Servings** 24 rolls
+  &nbsp;
 
 ##### Ingredients
 
@@ -28,6 +26,7 @@ tags:
 - 5 tbsp butter, softened
 - 1 egg , room temperature
 - 2 tbsp melted butter
+  &nbsp;
 
 ##### Method
 
