@@ -1,22 +1,20 @@
 ---
 title: Red Lobster Cheddar Bay Biscuits
-description:
+description: 
 published: true
-date: 2020-01-11T13:37:38.800Z
-tags:
+date: 2020-01-11T14:08:37.169Z
+tags: 
 ---
 
-![70c1e5a9-e262-4f2a-a8f8-89621fe03a7c.jpg](https://docs.fawcett.family/uploads/images/gallery/2020-01/scaled-1680-/70c1e5a9-e262-4f2a-a8f8-89621fe03a7c.jpg
-=480x)
+![cheddar-bay-biscuits.jpg](/cheddar-bay-biscuits.jpg =480x)
 
 ##### Preparation Time and Yield
 
-|                |             |
-| -------------- | ----------- |
-| **Prep Time**  | 15 minutes  |
-| **Cook Time**  | 12 minutes  |
-| **Total Time** | 27 minutes  |
-| **Servings**   | 12 biscuits |
+- **Prep Time** 15 minutes 
+- **Cook Time** 12 minutes 
+- **Total Time** 27 minutes 
+- **Servings** 12 biscuits 
+&nbsp;  
 
 ##### Ingredients
 
@@ -32,6 +30,7 @@ tags:
 - 3 tablespoons unsalted butter, melted
 - 1 tablespoon chopped fresh parsley leaves
 - 1/2 teaspoon garlic powder
+&nbsp;  
 
 ##### Method
 
