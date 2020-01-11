@@ -1,7 +1,15 @@
-![80ffea77-fdc1-471f-9f41-e6c30d0e3d9d.jpg](https://docs.fawcett.family/uploads/images/gallery/2020-01/scaled-1680-/80ffea77-fdc1-471f-9f41-e6c30d0e3d9d.jpg
-=480x)
+---
+title: caramel-apple-cheesecake-bars
+description: 
+published: true
+date: 2020-01-11T14:14:36.314Z
+tags: 
+---
 
-##### Preparation Time and Yield
+![caramel-apple-cheesecake-bars.jpg](/caramel-apple-cheesecake-bars.jpg =x480)
+&nbsp;  
+
+## Preparation Time and Yield
 
 - **Prep Time** 10 minutes
 - **Cook Time** 40 minutes
@@ -9,7 +17,7 @@
 - **Servings** 16 bars
   &nbsp;
 
-##### Ingredients
+## Ingredients
 
 **Crust**
 
@@ -34,12 +42,12 @@
 - 1/2 cup quick cooking oats
 - 1/2 cup butter softened
 
-**Drizzel**
+**Drizzle**
 
 - 1/2 cup caramel topping for drizzling after baked
   &nbsp;
 
-##### Method
+## Method
 
 1. Preheat oven to 350 degrees F.
 2. In a medium bowl, combine flour and brown sugar. Cut in butter with a pastry blender (or 2 forks) until mixture is crumbly. Press evenly into a 9x13 baking pan lined with heavy-duty aluminum foil. Bake 15 minutes or until lightly browned.
