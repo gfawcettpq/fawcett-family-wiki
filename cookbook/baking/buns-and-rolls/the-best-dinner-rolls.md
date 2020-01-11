@@ -1,12 +1,12 @@
 ---
 title: The Best Dinner Rolls
-description:
+description: 
 published: true
-date: 2020-01-11T13:57:32.558Z
-tags:
+date: 2020-01-11T14:10:09.529Z
+tags: 
 ---
 
-![from-scratch-dinner-rolls.jpg](https://docs.fawcett.family/uploads/images/gallery/2020-01/scaled-1680-/from-scratch-dinner-rolls.jpg =480x)
+![from-scratch-dinner-rolls.jpg](/from-scratch-dinner-rolls.jpg =x480)
 
 ##### Preparation Time and Yield
 
