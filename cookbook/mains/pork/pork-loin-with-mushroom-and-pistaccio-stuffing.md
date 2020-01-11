@@ -1,22 +1,22 @@
 ---
 title: Pork Loin with Mushroom & Pistaccio Stuffing
-description: 
+description:
 published: true
 date: 2020-01-11T13:17:29.832Z
-tags: 
+tags:
 ---
 
-[![Pork-Loin-with-Mushroom-Pistachio-Stuffing-wide-2.jpg](https://docs.fawcett.family/uploads/images/gallery/2020-01/scaled-1680-/Pork-Loin-with-Mushroom-Pistachio-Stuffing-wide-2.jpg)](https://docs.fawcett.family/uploads/images/gallery/2020-01/Pork-Loin-with-Mushroom-Pistachio-Stuffing-wide-2.jpg)
+[![Pork-Loin-with-Mushroom-Pistachio-Stuffing-wide-2.jpg](https://docs.fawcett.family/uploads/images/gallery/2020-01/scaled-1680-/Pork-Loin-with-Mushroom-Pistachio-Stuffing-wide-2.jpg)](https://docs.fawcett.family/uploads/images/gallery/2020-01/Pork-Loin-with-Mushroom-Pistachio-Stuffing-wide-2.jpg
+=480x)
 
 #### Preparation Time and Yield
 
-|            |           |
+|                |                   |
 | -------------- | ----------------- |
 | **Prep Time**  | 25 minutes        |
 | **Cook Time**  | 1 hour 30 minutes |
 | **Total Time** | 1 hour 55 minutes |
-| **Servings** | 8 people |
-
+| **Servings**   | 8 people          |
 
 ## Ingredients
 
@@ -29,7 +29,6 @@ tags:
 - 1/2 cup parmesan cheese
 - 2 tsp fresh oregano , minced
 - salt and pepper to taste
-
 
 ## Method
 
