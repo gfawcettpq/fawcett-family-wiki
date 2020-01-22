@@ -7,4 +7,5 @@ tags:
 ---
 
 - [Dressings and Vinaigrettes](dressings-and-vinaigrettes)
+- [Soups](soups)
 - [Vegetables](vegetables)
