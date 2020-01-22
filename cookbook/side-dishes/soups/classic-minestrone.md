@@ -6,7 +6,7 @@ date: 2020-01-22T14:38:41.619Z
 tags:
 ---
 
-![seriously-the-best-broccoli-of-your-life4.jpg](/seriously-the-best-broccoli-of-your-life4.jpg =x480)
+![minestrone-sooup-sq-012.jpg](/minestrone-soup-sq-012.jpg =x480)
 &nbsp;
 
 ## Preparation Time and Yield
