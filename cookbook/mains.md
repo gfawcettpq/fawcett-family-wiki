@@ -6,7 +6,7 @@ date: 2020-01-11T13:15:01.579Z
 tags:
 ---
 
-- [Casseroles](casseroles)
-- [Indian](indian)
-- [Pork](pork)
-- [Thai](thai)
+- [Casseroles](mains/casseroles)
+- [Indian](mains/indian)
+- [Pork](mains/pork)
+- [Thai](mains/thai)
