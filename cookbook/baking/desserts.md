@@ -7,3 +7,4 @@ tags:
 ---
 
 - [Caramel Apple Cheesecake Bars](caramel-apple-cheesecake-bars)
+- [Strawberry Shortcake Cake](strawberr-shortcake-cake)
