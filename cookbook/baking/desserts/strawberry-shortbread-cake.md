@@ -1,9 +1,9 @@
 ---
-title: strawberry-shortcake-cake
-description:
+title: Strawberry Shortbread Cake
+description: 
 published: true
-date: 2020-01-24:14:36.314Z
-tags:
+date: 2020-01-24T20:00:53.560Z
+tags: 
 ---
 
 ![Strawberry-Shortcake-Cake.jpg](/Strawberry-Shortcake-Cake.jpg =x480)
