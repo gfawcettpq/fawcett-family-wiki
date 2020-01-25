@@ -1,8 +1,8 @@
 ---
-title: Strawberry Shortbread Cake
+title: Strawberry Shortcake Cake
 description: 
 published: true
-date: 2020-01-24T20:00:53.560Z
+date: 2020-01-25T14:31:17.880Z
 tags: 
 ---
 
