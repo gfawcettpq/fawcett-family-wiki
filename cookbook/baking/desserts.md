@@ -2,9 +2,9 @@
 title: Desserts
 description: 
 published: true
-date: 2020-01-24T20:01:12.392Z
+date: 2020-01-25T14:31:42.246Z
 tags: 
 ---
 
 - [Caramel Apple Cheesecake Bars](caramel-apple-cheesecake-bars)
-- [Strawberry Shortbread Cake](strawberry-shortbread-cake)
+- [Strawberry Shortcake Cake](strawberry-shortcake-cake)
