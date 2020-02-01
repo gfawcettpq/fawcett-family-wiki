@@ -11,10 +11,10 @@ tags:
 
 ## Preparation Time and Yield
 
-- **Prep Time**  minutes
-- **Cook Time**  minutes
-- **Total Time**  minutes
-- **Servings** bowls
+- **Prep Time**  60 minutes
+- **Cook Time**  30 minutes
+- **Total Time**  90 minutes
+- **Servings** 4 servings
   &nbsp;
 
 ## Ingredients
