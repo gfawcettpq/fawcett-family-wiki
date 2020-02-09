@@ -7,4 +7,5 @@ tags:
 ---
 
 - [Caramel Apple Cheesecake Bars](caramel-apple-cheesecake-bars)
+- [Chocolate Oatmeal Peanut Butter Bars](chocolate-oatmean-peanut-butter-bars)
 - [Strawberry Shortcake Cake](strawberry-shortcake-cake)
