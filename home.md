@@ -7,3 +7,4 @@ tags:
 ---
 
 - [Cookbook](cookbook)
+- [Homelab](homelab)
