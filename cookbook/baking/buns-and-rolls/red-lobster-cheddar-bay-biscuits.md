@@ -6,7 +6,7 @@ date: 2020-01-11T14:12:56.101Z
 tags: 
 ---
 
-![cheddar-bay-biscuits.jpg](/cheddar-bay-biscuits.jpg =480x)
+![cheddar-bay-biscuits.jpg](/images/cookbook/cheddar-bay-biscuits.jpg =480x)
 &nbsp;  
 
 ## Preparation Time and Yield

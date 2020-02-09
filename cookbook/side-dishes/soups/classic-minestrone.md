@@ -6,7 +6,7 @@ date: 2020-01-22T14:38:41.619Z
 tags:
 ---
 
-![minestrone-sooup-sq-012.jpg](/minestrone-soup-sq-012.jpg =x480)
+![minestrone-sooup-sq-012.jpg](/images/cookbook/minestrone-soup-sq-012.jpg =x480)
 &nbsp;
 
 ## Preparation Time and Yield

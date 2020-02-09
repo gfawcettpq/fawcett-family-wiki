@@ -6,7 +6,7 @@ date: 2020-01-31:38:41.619Z
 tags:
 ---
 
-![butter-chicken.jpg](/butter-chicken.jpg =x480)
+![butter-chicken.jpg](/images/cookbook/butter-chicken.jpg =x480)
 &nbsp;
 
 ## Preparation Time and Yield

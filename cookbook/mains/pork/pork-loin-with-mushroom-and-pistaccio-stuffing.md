@@ -6,7 +6,7 @@ date: 2020-01-11T14:12:17.877Z
 tags: 
 ---
 
-![pork-loin-with-mushroom-pistachio-stuffing-wide-2.jpg](/pork-loin-with-mushroom-pistachio-stuffing-wide-2.jpg =x480)
+![pork-loin-with-mushroom-pistachio-stuffing-wide-2.jpg](/images/cookbook/pork-loin-with-mushroom-pistachio-stuffing-wide-2.jpg =x480)
 &nbsp;  
 ## Preparation Time and Yield
 

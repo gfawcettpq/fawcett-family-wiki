@@ -6,7 +6,7 @@ date: 2020-01-25T14:31:17.880Z
 tags: 
 ---
 
-![Strawberry-Shortcake-Cake.jpg](/Strawberry-Shortcake-Cake.jpg =x480)
+![Strawberry-Shortcake-Cake.jpg](/images/cookbook/Strawberry-Shortcake-Cake.jpg =x480)
 &nbsp;
 
 ## Preparation Time and Yield

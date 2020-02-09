@@ -6,7 +6,7 @@ date: 2020-01-11T14:39:11.826Z
 tags: 
 ---
 
-![vegan-caesar-salad-dressing.jpg](/vegan-caesar-salad-dressing.jpg =x480)
+![vegan-caesar-salad-dressing.jpg](/images/cookbook/vegan-caesar-salad-dressing.jpg =x480)
 &nbsp;  
 
 ## Preparation Time and Yield

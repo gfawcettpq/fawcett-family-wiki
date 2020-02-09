@@ -6,7 +6,7 @@ date: 2020-01-11T14:14:36.314Z
 tags: 
 ---
 
-![caramel-apple-cheesecake-bars.jpg](/caramel-apple-cheesecake-bars.jpg =x480)
+![caramel-apple-cheesecake-bars.jpg](/images/cookbook/caramel-apple-cheesecake-bars.jpg =x480)
 &nbsp;  
 
 ## Preparation Time and Yield
