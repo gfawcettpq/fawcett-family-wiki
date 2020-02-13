@@ -1,12 +1,10 @@
 ---
 title: Thai Basil Salmon Curry
-description:
+description: thai-basil-salmon-curry
 published: true
-date: 2020-01-11T14:12:17.877Z
-tags:
+date: 2020-02-13T13:38:01.070Z
+tags: 
 ---
-
-&nbsp;
 
 ## Preparation Time and Yield
 
