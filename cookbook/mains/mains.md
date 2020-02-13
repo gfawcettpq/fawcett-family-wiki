@@ -9,3 +9,4 @@ tags:
 - [Casseroles](casseroles)
 - [Indian](indian)
 - [Pork](pork)
+- [Thai](thai)
