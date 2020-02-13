@@ -1,12 +1,12 @@
 ---
 title: Mains
-description:
+description: 
 published: true
-date: 2020-01-11T13:15:01.579Z
-tags:
+date: 2020-02-13T13:36:14.469Z
+tags: 
 ---
 
-- [Casseroles](mains/casseroles)
-- [Indian](mains/indian)
-- [Pork](mains/pork)
-- [Thai](mains/thai)
+- [Casseroles](casseroles)
+- [Indian](indian)
+- [Pork](pork)
+- [Thai](thai)
