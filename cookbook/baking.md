@@ -1,11 +1,11 @@
 ---
 title: Baking
-description:
+description: 
 published: true
-date: 2020-01-11T13:33:05.498Z
-tags:
+date: 2020-03-17T19:17:42.308Z
+tags: 
 ---
 
-- [Bread](baking/bread)
-- [Buns and Rolls](baking/buns-and-rolls)
-- [Desserts](baking/desserts)
+- [Bread](bread)
+- [Buns and Rolls](buns-and-rolls)
+- [Desserts](desserts)
