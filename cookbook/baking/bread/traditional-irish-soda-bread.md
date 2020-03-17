@@ -1,5 +1,5 @@
 ---
-title: Easy Crusty French Bread
+title: Traditional Irish Soda Bread
 description:
 published: true
 date: 2020-01-11T14:18:48.827Z
