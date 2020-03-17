@@ -10,10 +10,10 @@ tags:
 
 ## Preparation Time and Yield
 
-- **Prep Time\*** 15 minutes
-- **Cook Time\*** 45 minutes
-- **Total Time\*** 1 hour
-- **Servings\*** 1 loaf
+- **Prep Time** 15 minutes
+- **Cook Time** 45 minutes
+- **Total Time** 1 hour
+- **Servings** 1 loaf
   &nbsp;
 
 ## Ingredients
