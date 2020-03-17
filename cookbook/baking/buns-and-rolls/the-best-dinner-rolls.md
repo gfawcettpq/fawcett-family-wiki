@@ -6,7 +6,7 @@ date: 2020-01-11T14:13:23.259Z
 tags: 
 ---
 
-![from-scratch-dinner-rolls.jpg](/from-scratch-dinner-rolls.jpg =x480)
+![from-scratch-dinner-rolls.jpg](/images/cookbook/from-scratch-dinner-rolls.jpg =x480)
 &nbsp;  
 
 ## Preparation Time and Yield

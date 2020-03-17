@@ -1,10 +1,11 @@
 ---
 title: Desserts
-description:
+description: 
 published: true
-date: 2020-01-11T13:36:00.614Z
-tags:
+date: 2020-01-25T14:31:42.246Z
+tags: 
 ---
 
 - [Caramel Apple Cheesecake Bars](caramel-apple-cheesecake-bars)
-- [Strawberry Shortcake Cake](strawberr-shortcake-cake)
+- [Chocolate Oatmeal Peanut Butter Bars](chocolate-oatmean-peanut-butter-bars)
+- [Strawberry Shortcake Cake](strawberry-shortcake-cake)

@@ -6,7 +6,7 @@ date: 2020-01-11T14:18:48.827Z
 tags: 
 ---
 
-![crusty-french-bread-6.jpg](/crusty-french-bread-6.jpg =x480)
+![crusty-french-bread-6.jpg](/images/cookbook/crusty-french-bread-6.jpg =x480)
 
 ## Preparation Time and Yield
 
