@@ -7,3 +7,4 @@ tags:
 ---
 
 - [Easy Crusty French Bread](easy-crusty-french-bread)
+- [Traditional Irish Soda Bread](traditional-irish-soda-bread)
