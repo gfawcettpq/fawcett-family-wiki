@@ -1,6 +1,3 @@
 site_name: Fawcett Family Wiki
 theme:
-  name: "material"
-  palette:
-    primary: grey
-    accent: red
+  name: "bootstrap4"
