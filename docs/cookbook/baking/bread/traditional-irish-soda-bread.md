@@ -6,7 +6,7 @@ date: 2020-01-11T14:18:48.827Z
 tags:
 ---
 
-![irish-soda-bread.jpg](/irish-soda-bread.jpg)
+![irish-soda-bread.jpg](/images/cookbook/irish-soda-bread.jpg)
 
 ## Preparation Time and Yield
 

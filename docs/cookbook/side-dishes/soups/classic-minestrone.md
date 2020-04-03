@@ -6,8 +6,7 @@ date: 2020-01-22T14:38:41.619Z
 tags:
 ---
 
-![minestrone-sooup-sq-012.jpg](/images/cookbook/minestrone-soup-sq-012.jpg =x480)
-&nbsp;
+![minestrone-soup-sq-012.jpg](/images/cookbook/minestrone-soup-sq-012.jpg)
 
 ## Preparation Time and Yield
 
@@ -15,7 +14,6 @@ tags:
 - **Cook Time** 45 minutes
 - **Total Time** 65 minutes
 - **Servings** 6 bowls
-  &nbsp;
 
 ## Ingredients
 
@@ -48,7 +46,6 @@ tags:
 - 2 cups baby spinach, chopped kale or chopped collard greens
 - 2 teaspoons lemon juice
 - Freshly grated Parmesan cheese, for garnishing (optional)
-  &nbsp;
 
 ## Method
 
@@ -58,4 +55,3 @@ tags:
 4. Raise heat to medium-high and bring the mixture to a boil, then partially cover the pot with the lid, leaving about a 1” gap for steam to escape. Reduce heat as necessary to maintain a gentle simmer.
 5. Cook for 15 minutes, then remove the lid and add the pasta, beans and greens. Continue simmering, uncovered, for 20 minutes or until the the pasta is cooked al dente and the greens are tender.
 6. Remove the pot from the heat, then remove the bay leaves. Stir in the lemon juice and remaining tablespoon of olive oil. Taste and season with more salt (I usually add about ¼ teaspoon more) and pepper until the flavors really sing. Garnish bowls of soup with grated Parmesan, if you’d like.
-   &nbsp;

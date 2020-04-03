@@ -1,20 +1,19 @@
 ---
 title: Roasted Broccoli with Lemon and Garlic
-description: 
+description:
 published: true
 date: 2020-01-11T14:38:41.619Z
-tags: 
+tags:
 ---
 
-![seriously-the-best-broccoli-of-your-life4.jpg](/images/cookbook/seriously-the-best-broccoli-of-your-life4.jpg =x480)
-&nbsp;  
+![seriously-the-best-broccoli-of-your-life4.jpg](/images/cookbook/seriously-the-best-broccoli-of-your-life4.jpg)
+
 ## Preparation Time and Yield
 
 - **Prep Time** 10 minutes
 - **Cook Time** 25 minutes
 - **Total Time** 35 minutes
 - **Servings** 6
-  &nbsp;
 
 ## Ingredients
 
@@ -26,7 +25,6 @@ tags:
 - 2 teaspoons grated lemon zest
 - 2 tablespoons freshly squeezed lemon juice
 - ⅓ cup freshly grated Parmesan cheese
-  &nbsp;
 
 ## Method
 
@@ -35,7 +33,6 @@ tags:
 3. Place the broccoli florets on a sheet pan large enough to hold them in a single layer. Toss the garlic on the broccoli and drizzle with 5 tablespoons olive oil. Sprinkle with the salt and pepper
 4. Roast for **20 to 25 minutes**, until crisp-tender and the tips of some of the florets are browned.
 5. Remove the broccoli from the oven and immediately toss with 1 1/2 tablespoons olive oil, the lemon zest, lemon juice, and Parmesan. Serve hot.
-   &nbsp;
 
 ## Notes
 
