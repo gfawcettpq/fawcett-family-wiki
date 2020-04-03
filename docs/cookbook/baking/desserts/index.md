@@ -9,4 +9,5 @@ tags:
 - [Banada Bread Brownies](banana-bread-brownies)
 - [Caramel Apple Cheesecake Bars](caramel-apple-cheesecake-bars)
 - [Chocolate Oatmeal Peanut Butter Bars](chocolate-oatmean-peanut-butter-bars)
+- [Cranberry Orange Muffins](cranberry-orange-muffins)
 - [Strawberry Shortcake Cake](strawberry-shortcake-cake)
