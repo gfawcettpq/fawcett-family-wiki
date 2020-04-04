@@ -1,5 +1,5 @@
 ---
-title: caramel-apple-cheesecake-bars
+title: Caramel Apple Cheesecake Bars
 description:
 published: true
 date: 2020-01-11T14:14:36.314Z
