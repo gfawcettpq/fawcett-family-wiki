@@ -27,7 +27,6 @@ tags:
 - 1 tsp vanilla or vanilla bean paste
 - 1/4 cup freshly squeezed orange juice
 - 1 1/2 cups fresh or frozen cranberries
--
 
 ## Method
 
