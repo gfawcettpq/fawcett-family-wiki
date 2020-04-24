@@ -1,6 +1,14 @@
 site_name: Fawcett Family Wiki
+site_url: https://docs.fawcett.family
+site_description: All the Things We Forgot to Remember
 theme:
+  logo:
+    icon: menu_book
   name: "material"
+  language: en
   palette:
-    primary: grey
-    accent: red
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
